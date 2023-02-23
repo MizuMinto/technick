@@ -10,7 +10,7 @@ Bei Technik fragen Tech Nick fragen!
 
 > Schickt ein zufälliges Element aus der Liste "technick". Momentan befinden sich dort nur Werbevideos.
 
-/abgenickt
+/entscheidung
 
 > Entscheidet zufällig ob etwas "angenickt" oder "angepisst" von Technik ist
 
@@ -22,7 +22,7 @@ Bei Technik fragen Tech Nick fragen!
 
 Der Bot benötigt Python 3.
 
-Außerdem nutzt er [Pycord](https://pycord.dev/).  
+Außerdem nutzt er [Pycord](https://pycord.dev/).
 
 `$ pip install py-cord`
 
@@ -30,7 +30,7 @@ Außerdem nutzt er [Pycord](https://pycord.dev/).
 
 Aus Sicherheitsgründen erwartet der Bot den Token in einer .env datei
 Füge in DEINDISCORDTOKEN den Token von deinen Discord Bot ein
-Beispiel unter Linux:  
+Beispiel unter Linux:
 `$ echo ""TOKEN" = DEINDISCORDTOKEN" > .env`
 
 Oder einfach in eine .env datei folgendes reinschreiben:
