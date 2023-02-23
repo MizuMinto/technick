@@ -30,7 +30,7 @@ Außerdem nutzt er [Pycord](https://pycord.dev/).
 
 Aus Sicherheitsgründen erwartet der Bot den Token in einer .env datei
 Füge in DEINDISCORDTOKEN den Token von deinen Discord Bot ein
-Beispiel unter Linux:
+Beispiel unter Linux:  
 `$ echo ""TOKEN" = DEINDISCORDTOKEN" > .env`
 
 Oder einfach in eine .env datei folgendes reinschreiben:
