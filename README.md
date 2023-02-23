@@ -6,12 +6,17 @@ Bei Technik fragen Tech Nick fragen!
 
 ### Momentan gibt es 3 Funktionen
 
-`/technick`
-Schickt ein zufälliges Element aus der Liste "technick". Momentan befinden sich dort nur Werbevideos.
-`/abgenickt`
-Entscheidet zufällig ob etwas "angenickt" oder "angepisst" von Technik ist
-`/techfakt`
-Schickt eine zufällige Zeile aus der Datei "fakt.txt". Dort befinden sich momentan Tech Fakten die ich durch ChatGPT habe. Es kann sein dass sich Fakten wiederholen.
+/technick
+
+> Schickt ein zufälliges Element aus der Liste "technick". Momentan befinden sich dort nur Werbevideos.
+
+/abgenickt
+
+> Entscheidet zufällig ob etwas "angenickt" oder "angepisst" von Technik ist
+
+/techfakt
+
+> Schickt eine zufällige Zeile aus der Datei "fakt.txt". Dort befinden sich momentan Tech Fakten die ich durch ChatGPT habe. Es kann sein dass sich Fakten wiederholen.
 
 # Dependencies
 
