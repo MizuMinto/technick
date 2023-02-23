@@ -30,9 +30,9 @@ Markierung
 
 Der Bot benötigt Python 3.
 
-Außerdem nutzt er [Pycord](https://pycord.dev/).
+Außerdem nutzt er [Pycord](https://pycord.dev/) und python-dotenv.
 
-`$ pip install py-cord`
+`$ pip install py-cord python-dotenv`
 
 ## Setup
 
