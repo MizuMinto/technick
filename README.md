@@ -2,9 +2,9 @@
 
 Bei Technik fragen Tech Nick fragen!
 
-# Funktionen
+## Funktionen
 
-### Momentan gibt es 3 Funktionen
+#### Momentan gibt es 3 Funktionen
 
 /technick
 
@@ -18,14 +18,15 @@ Bei Technik fragen Tech Nick fragen!
 
 > Schickt eine zufällige Zeile aus der Datei "fakt.txt". Dort befinden sich momentan Tech Fakten die ich durch ChatGPT habe. Es kann sein dass sich Fakten wiederholen.
 
-# Dependencies
+## Dependencies
 
 Der Bot benötigt Python 3.
 
-Außerdem nutzt er [Pycord](https://pycord.dev/).
+Außerdem nutzt er [Pycord](https://pycord.dev/).  
+
 `$ pip install py-cord`
 
-# Setup
+## Setup
 
 Aus Sicherheitsgründen erwartet der Bot den Token in einer .env datei
 Füge in DEINDISCORDTOKEN den Token von deinen Discord Bot ein
