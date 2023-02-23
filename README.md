@@ -2,9 +2,13 @@
 
 Bei Technik fragen Tech Nick fragen!
 
+## Invite  
+
+https://discord.com/api/oauth2/authorize?client_id=1078253643142283264&permissions=2147510272&scope=bot%20applications.commands
+
 ## Funktionen
 
-#### Momentan gibt es 3 Funktionen
+#### Das sind die momentanen Funktionen
 
 /technick
 
@@ -16,7 +20,11 @@ Bei Technik fragen Tech Nick fragen!
 
 /techfakt
 
-> Schickt eine zufällige Zeile aus der Datei "fakt.txt". Dort befinden sich momentan Tech Fakten die ich durch ChatGPT habe. Es kann sein dass sich Fakten wiederholen.
+> Schickt eine zufällige Zeile aus der Datei "fakt.txt". Dort befinden sich momentan Tech Fakten die ich durch ChatGPThabe. Es kann sein dass sich Fakten wiederholen.
+
+Markierung
+
+> Wenn der Bot markiert wird schickt er eine Sprechblase aus der speechbubble Liste. Er löscht außerdem die Nachricht in der er markiert wurde.
 
 ## Dependencies
 
@@ -30,7 +38,7 @@ Außerdem nutzt er [Pycord](https://pycord.dev/).
 
 Aus Sicherheitsgründen erwartet der Bot den Token in einer .env datei
 Füge in DEINDISCORDTOKEN den Token von deinen Discord Bot ein
-Beispiel unter Linux:  
+Beispiel unter Linux:
 `$ echo ""TOKEN" = DEINDISCORDTOKEN" > .env`
 
 Oder einfach in eine .env datei folgendes reinschreiben:
