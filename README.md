@@ -20,7 +20,7 @@ https://discord.com/api/oauth2/authorize?client_id=1078253643142283264&permissio
 
 /techfakt
 
-> Schickt eine zufällige Zeile aus der Datei "fakt.txt". Dort befinden sich momentan Tech Fakten die ich durch ChatGPThabe. Es kann sein dass sich Fakten wiederholen.
+> Schickt eine zufällige Zeile aus der Datei "fakt.txt". Dort befinden sich momentan Tech Fakten die ich durch ChatGPT habe. Es kann sein dass sich Fakten wiederholen.
 
 Markierung
 
@@ -36,9 +36,9 @@ Außerdem nutzt er [Pycord](https://pycord.dev/) und python-dotenv.
 
 ## Setup
 
-Aus Sicherheitsgründen erwartet der Bot den Token in einer .env datei
-Füge in DEINDISCORDTOKEN den Token von deinen Discord Bot ein
-Beispiel unter Linux:
+Aus Sicherheitsgründen erwartet der Bot den Token in einer .env datei  
+Füge in DEINDISCORDTOKEN den Token von deinen Discord Bot ein  
+Beispiel unter Linux:  
 `$ echo ""TOKEN" = DEINDISCORDTOKEN" > .env`
 
 Oder einfach in eine .env datei folgendes reinschreiben:
