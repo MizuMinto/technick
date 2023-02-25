@@ -10,14 +10,12 @@ from time import ctime
 
 
 load_dotenv() 
-bot = discord.Bot()
-
 bot = discord.Bot(intents=discord.Intents.all())
 
 technick = ["https://cdn.discordapp.com/attachments/1078032962706231316/1078040293884043294/4hHXi9z.mp4","https://cdn.discordapp.com/attachments/1078032962706231316/1078040311860826183/iEwMepU.mp4", "https://cdn.discordapp.com/attachments/1078032962706231316/1078040317175009390/8XeY6gh.mp4", "https://cdn.discordapp.com/attachments/1078032962706231316/1078040363064901683/rDcCk7L.mp4", "https://cdn.discordapp.com/attachments/1078032962706231316/1078040386557190235/c36CMIc.mp4", "https://cdn.discordapp.com/attachments/1078032962706231316/1078040418152886473/v2I5oQ8.mp4", "https://cdn.discordapp.com/attachments/1078032962706231316/1078040433256583351/b17KWsJ.mp4", "https://cdn.discordapp.com/attachments/1078032962706231316/1078040455150837841/57TxAeE.mp4", "https://cdn.discordapp.com/attachments/1078032962706231316/1078040477967851591/gXJPIqW.mp4"]
 abgenickt = ["Abgenickt", "Angepisst"]
 speechbubble = ["https://media.discordapp.net/attachments/1078032962706231316/1078239280813592687/watermark.png?width=916&height=610", "https://media.discordapp.net/attachments/1078032962706231316/1078239378826088499/watermark.png?width=960&height=543", "https://media.discordapp.net/attachments/1078032962706231316/1078239432622219285/watermark.png?width=960&height=480", "https://media.discordapp.net/attachments/1078032962706231316/1078239499064188990/watermark.png?width=960&height=540", "https://media.discordapp.net/attachments/1078032962706231316/1078239562557554689/watermark.png", "https://media.discordapp.net/attachments/1078032962706231316/1078239602457989210/watermark.png?width=960&height=540", "https://media.discordapp.net/attachments/1078032962706231316/1078239730002571334/watermark.png?width=960&height=480", "https://media.discordapp.net/attachments/1078032962706231316/1078239815562182736/watermark.png"]
-# die sprechblase ist etwas was ich noch einbauen will, momentan bin ich mir aber unsicher wie genau es umgesetzt werden soll
+
 
 @bot.event
 async def on_ready():
