@@ -2,7 +2,7 @@
 
 Bei Technik fragen Tech Nick fragen!
 
-## Invite  
+## Invite
 
 https://discord.com/api/oauth2/authorize?client_id=1078253643142283264&permissions=2147510272&scope=bot%20applications.commands
 
@@ -26,6 +26,10 @@ Markierung
 
 > Wenn der Bot markiert wird schickt er eine Sprechblase aus der speechbubble Liste. Er löscht außerdem die Nachricht in der er markiert wurde.
 
+/Geld  
+
+> Gratis Geld Download!
+
 ## Dependencies
 
 Der Bot benötigt Python 3.
@@ -36,9 +40,9 @@ Außerdem nutzt er [Pycord](https://pycord.dev/) und python-dotenv.
 
 ## Setup
 
-Aus Sicherheitsgründen erwartet der Bot den Token in einer .env datei  
-Füge in DEINDISCORDTOKEN den Token von deinen Discord Bot ein  
-Beispiel unter Linux:  
+Aus Sicherheitsgründen erwartet der Bot den Token in einer .env datei
+Füge in DEINDISCORDTOKEN den Token von deinen Discord Bot ein
+Beispiel unter Linux:
 `$ echo ""TOKEN" = DEINDISCORDTOKEN" > .env`
 
 Oder einfach in eine .env datei folgendes reinschreiben:
